@@ -1,4 +1,4 @@
-## www.dispnet.io - Decentralized Internet Service Provider
+## www.dispnet.io - Decentralized Internet Service Pointers
 ### DISPnet.io - /systems/[...subsystems]
 ### Disruptive Networks
 
